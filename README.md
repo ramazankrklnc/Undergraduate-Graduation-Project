@@ -1,4 +1,4 @@
-# Akciğer Segmentasyon Projesi
+# Segmentasyon Tabanlı Akciğer Kanseri Teşhisi (Lisans Bitirme Projesi)
 
 Bu proje, akciğer görüntülerinin segmentasyonu için geliştirilmiş bir makine öğrenmesi projesidir. Proje, akciğer CT taramalarından segmentasyon maskeleri oluşturmak ve bu maskeleri kullanarak modeller eğitmek amacıyla tasarlanmıştır.
 
