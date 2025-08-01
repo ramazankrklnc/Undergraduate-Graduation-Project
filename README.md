@@ -2,22 +2,6 @@
 
 Bu proje, akciğer görüntülerinin segmentasyonu için geliştirilmiş bir makine öğrenmesi projesidir. Proje, akciğer CT taramalarından segmentasyon maskeleri oluşturmak ve bu maskeleri kullanarak modeller eğitmek amacıyla tasarlanmıştır.
 
-## 🏗️ Proje Yapısı
-├── Image Masking/
-│ └── Segmentation.ipynb # Görüntü maskeleme ve segmentasyon işlemleri
-├── Model Training/
-│ ├── lung-test image/ # Test görüntüleri
-│ │ ├── 1.jpeg
-│ │ ├── 2.jpeg
-│ │ ├── 3.jpeg
-│ │ ├── 4.jpeg
-│ │ ├── 5.jpeg
-│ │ └── 6.jpeg
-│ ├── No Segmentation.ipynb # Segmentasyon olmadan model eğitimi
-│ ├── Segmentation.ipynb # Segmentasyon ile model eğitimi
-│ └── splitting_lung_data.ipynb # Veri bölme işlemleri (train/validation/test)
-
-
 ## 🎯 Proje Amacı
 
 Bu proje, tıbbi görüntü işleme alanında akciğer segmentasyonu yaparak:
